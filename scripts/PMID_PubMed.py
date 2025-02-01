@@ -76,7 +76,7 @@ forbidden_words = [
     "BACKGROUND:", "METHODS:", "OBJECTIVES:", "RESULTS:", "[Figurre: see text]", "•", "<strong>BACKGROUND</strong>",
     "CONCLUSIONS:", "CONCLUSION:", "INTRODUCTION:", "Conclusion:", "[Image: see text]",
     "Introduction:", "Methods:", "Results:", "Conclusions:", "Objectives:","[reaction: see text]"
-]
+] #exemaples
 
 all_abstracts = []
 missing_abstracts = []
